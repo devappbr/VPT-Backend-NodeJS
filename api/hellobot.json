@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hellobotdoctors",
+  "private_key_id": "018b19b7dfc78e52067203196b03001850e0ccfa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDC/JhNo3Nb0P+r\nrwDCABnyGGRzxvv56S5as/oNcjN+CYE6xKTUkwGSNlKQ/b7nKybzpg32IHJu0zjZ\nX0IzkV/VNHPAYERg9akr/gzZAzJECwG07VZgrJ3PEgEcjOJ4P1xCHRfWh1uxayrb\nHtfmg2cmBazyQA2yQzUNpYdI0DqOYumdNENaaCEemh1vKPTYOeW4cV6ITTqaOfyB\n6sfKITDsCK6wYS3oZeXq/+lck8vJKP1okFM3/UEFEyW5Nb2wmnyjAxfQeO1UAteG\nTAiXXuxTwT75TuYDkuFuwhbkJOsNvi47gPOWdGgcM3BFeGCb/nn+shW7fK9sxRJh\nzifIY0s3AgMBAAECggEAGQXmm8wWoVlcflFqpPrzWXTU62DFdIh+yOgg9nnJ7upU\nWdDjoF4vTO7IwM+3oJ4SlSEh2IzIcr2LpaXKbqjA5jEhi7YvAEx2he1IA8+bs0zA\nTtJIjAaLCAh0+Q+BftIOynNGXGMpmsa4jL9UEMKbSa9fxwT+XPqwA8zS5D7IzP3e\nJtbuzmQuHaerTcBVwT5nw5//n/oaSbwpCJ6LSVJSaNbA0j/CaZSyaPvDKel1710F\nu21i1QQrHY6thkUbt+I0FYQ3C5x+OiQs2QlCUWCIkd3UpmtZ8E8qNrszXi8Xxs2J\naRbE/hWm0DFOZnd7Sa5YQrZCR8WNH0UjQozvr9nTkQKBgQDvZ0GAb4KLkNm/ImbC\nPTVH7YvbT/mOaVaHrqljSuqlse2o9xfxJtAfahtEYimGG11dhYZehFuwHaUwzrro\n/Pr2co7LmUq5ySVViBozv/tEz1LtuVZ2pPNEGGCHj+1o+gPBEij31pFAb3jouUdj\nrF91gVlWNyKqPVo8jHMWwEqXJwKBgQDQgREqJ2SeGL0RLAiKP/E2OdICZC5ohEZ+\nb2aXQbG8NldsBrvFacCh8RkdheywZn7PnYuF7M8kpNZPtunenAk01i5NpsP6JbEd\nNLDek9I1EqvgxfltuJhyGmupjhDSiyCle8PDK2P1A+J2JNedKE7kEj/de3/P/Bsd\n66Fm36i1cQKBgH5A1BhptkzoLQ1RlSOmp+yw5+rW+GMURl/zyrzki26qsQ1EkknJ\nEEUg7hRYOFHTKJ/jhQNfhgMQ/0cIHyY0FB3YOFpDE1d7Lsc2qarU+ixFshRQg7q6\nLtiginezfZ65CzXM3/IkJCH5J6iD3ZRBGW6csoJ3PT7OcEIyR5ed/ThNAoGAa+2j\nePKTPtMHa1Ajy4x1y9/6OYqqCygNZX082acD3a0za5PAttua/zjSC1o7vsQPeGDQ\nzC5cu1coKHNCdBzJFzSXG1Lrtxyzpa6Ur2JNOXPEzMEt8AHRx56thEMpqhKif4al\nOu3G/BlarFU91vf6fkyECp3W905EqyRBlALKTcECgYAqfxOnE4tNPHKUfm+Upso4\nVGioTaGhh4ghGvMVKaULHZmGgcT3HYlMgkmGQ5PzW4kgDhTUml25SsVaXegW2rLU\nV1eE9mfTGo+LoowM06JrV6L4qTgBXCuvCYCPTxzL2kF/m+dJGv+11RvMGgMLnv1W\nkLyfvz1Hu2gGVg3fP2zY0Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-ahygny@hellobotdoctors.iam.gserviceaccount.com",
+  "client_id": "106774181975699655129",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-ahygny%40hellobotdoctors.iam.gserviceaccount.com"
+}
