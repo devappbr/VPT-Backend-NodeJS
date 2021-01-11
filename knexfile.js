@@ -5,7 +5,7 @@ module.exports = {
     connection: {
       host : 'db-instance-vpt-dev.cwq9qv9m4vhn.sa-east-1.rds.amazonaws.com',
       user : 'admin',
-      password : 'Kdelnx99',
-      database : 'dbcarzapio'
+      password : 'kdelnx99',
+      database : 'db_vpt'
     }
   }
