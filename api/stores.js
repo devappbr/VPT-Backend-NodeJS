@@ -9,6 +9,9 @@ module.exports = (app) => {
         "stores.name",
         "stores.logo",
         "stores.id",
+        "stores.cod",
+        "stores.pop",
+        "stores.date"
         
       )
 
